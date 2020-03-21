@@ -1,0 +1,7 @@
+// Join our channel at Discord: https://discord.gg/wWarT8G
+// Website: https://javadsharafodinzadeh.ir/discord-lifebuoy
+// Owner: Javad Sharafodin Zadeh (https://javadsharafodinzadeh.ir)
+{ 
+  "token"  : "add-your-bot-token", // Early Access: https://discordapp.com/developers/applications/
+  "prefix" : "/" // You can change this section
+}
