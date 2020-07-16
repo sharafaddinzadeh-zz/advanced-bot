@@ -11,6 +11,5 @@ Bot implementation steps:
 
 **Protip**: You can use the *Visual Studio Code* program to coding, modify code, enjoy the regularity & colorfulity of your code. [Download](https://code.visualstudio.com/Download)
 
- * Join our channel at [Discord](https://discord.gg/wWarT8G)
  * [Website](https://javadsharafodinzadeh.ir/discord-lifebuoy)
  * Owner: [Javad Sharafodin Zadeh](https://javadsharafodinzadeh.ir)
