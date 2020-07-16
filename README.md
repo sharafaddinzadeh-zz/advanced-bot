@@ -1,5 +1,5 @@
 # Normal Discord Bot
-Normal Discord bot, with discord.js library
+Advanced discord bot, with discord.js library
 
 Bot implementation steps:
 
