@@ -1,4 +1,4 @@
-# Normal Discord Bot
+# Advanced Discord Bot
 Advanced discord bot, with discord.js library
 
 Bot implementation steps:
